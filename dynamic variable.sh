@@ -10,5 +10,6 @@
 #date --help
 
 date="$(date +%F)"
+echo -e "todays date is ${date}"
 
 

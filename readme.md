@@ -52,3 +52,11 @@
 <ul>: An unordered list.
 <li>: A list item.
 <a>: A hyperlink, with href specifying the URL and target="_blank" ensuring the link opens in a new tab.
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0

@@ -1,7 +1,7 @@
 #!/bin/bash
-#a =3000
-#echo "value of a is $a"
-#echo "script name is : $0"
+a =3000
+echo "value of a is $a"
+echo "script name is : $0"
 Team =$1
 project =$2
 

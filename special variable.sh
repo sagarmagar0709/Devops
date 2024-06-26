@@ -5,4 +5,4 @@ Team =$1
 
 # here we can print the script name as output
 
-echo "name of the running script is : $TEAM"
+echo -e "name of the running script is : $TEAM"
